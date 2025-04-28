@@ -3,7 +3,7 @@ Sentiment Analysis, bert Fine-tuning Task, 2024 HKUST(GZ), course project assign
 
 File (Bert-fine -tunes-sample.py) is a bert sentiment analysis fine-tuning code that can run through alone. On this basis, I convert it to the specified notebook format (SentimentAnalysis-success-CN_note) according to the professor's requirements. The file at the end of ‘source’ is the source file provided by the professor, and it is also the task requirement that needs to be completed/completed.
 
-About Jupyter Notebook demo, you can refer to the file ** (Assignment3.ipynb) ** for details.
+About Jupyter Notebook demo, you can refer to the file **(Assignment3.ipynb)** for details.
 
 Data Count:
 
