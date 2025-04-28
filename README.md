@@ -5,6 +5,8 @@ File (Bert-fine -tunes-sample.py) is a bert sentiment analysis fine-tuning code 
 
 About Jupyter Notebook demo, you can refer to the file **(Assignment3.ipynb)** for details.
 
+For details on how to utilize Hugging Face's pre-trained BERT, please refer to this [CSDN blog](https://blog.csdn.net/weixin_57972634/article/details/143758599) written by me.
+
 Data Count:
 
 ![image](https://github.com/user-attachments/assets/05772ff2-6cb9-4a94-b4ba-524e6f3cb35f)
